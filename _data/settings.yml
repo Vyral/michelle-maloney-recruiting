@@ -1,6 +1,6 @@
 audit_header: false
-title: "Vermillion's Best Real Estate Training"
-description: Michelle Maloney, a top Real Estate Agent in Vermillion, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "South Dakota's Best Real Estate Training"
+description: Michelle Maloney, a top Real Estate Agent in South Dakota, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -15,7 +15,7 @@ client:
   license_number:
   about_markdown: |
     I've lived in Vermillion since 1988, and I can tell you Vermillion is a GREAT place to live.  I opened Maloney Real Estate because I want to help develop a community, not just sell houses.  I am committed to making your experience the best it can be and look forward to helping you.
-  market: Vermillion
+  market: South Dakota
   brand: Maloney Real Estate
   brokerage:
   address: 108 East Main Street Vermillion, SD 57069
@@ -66,19 +66,19 @@ socials:
   podcast_url:
 
 podcast:
-  title: 'Vermillion Real Estate Podcast with Michelle Maloney'
+  title: 'South Dakota Real Estate Podcast with Michelle Maloney'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Vermillion Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Maloney Real Estate - your professional Vermillion Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Vermillion, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the South Dakota Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Maloney Real Estate - your professional South Dakota Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in South Dakota, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: 'Michelle Maloney'
 
 images:
   client_headshot_path: /img/headshot.jpeg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Vermillion Real Estate Video Blog
+  hero_text: South Dakota Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
