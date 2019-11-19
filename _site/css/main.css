@@ -1380,18 +1380,17 @@ html[xmlns] .flexslider .slides {
   padding-left: 15px; }
 
 .navbar-left {
-  margin-top: 2rem; }
+  margin-top: 1rem; }
 
 .navbar-right {
-  margin-top: 2rem; }
+  margin-top: 1rem; }
   .navbar-right a {
     font-weight: bold; }
 
 .nav-logo {
   float: left !important;
-  max-width: 150px;
-  margin: 5px;
-  padding: 10px; }
+  max-width: 125px;
+  margin: 5px; }
 
 @media (max-width: 760px) {
   .nav-logo {
@@ -1401,8 +1400,8 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 150px;
-    margin-top: -10px; } }
+    max-width: 100px;
+    margin-top: -15px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1510,6 +1509,9 @@ label.tree-toggle {
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 600px) {
+  #hero {
+    padding-top: 5.5rem; }
+
   .site-logo {
     max-width: 15rem;
     margin-top: 2rem; }

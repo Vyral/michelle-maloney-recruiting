@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>South Dakota's Best Real Estate Training</title>
+    <title>South Dakota's Best Real Estate Training - Michelle Maloney</title>
     <description>Michelle Maloney, a top Real Estate Agent in South Dakota, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Sep 2019 11:13:29 -0500</pubDate>
-    <lastBuildDate>Mon, 09 Sep 2019 11:13:29 -0500</lastBuildDate>
+    <pubDate>Tue, 19 Nov 2019 15:20:29 -0600</pubDate>
+    <lastBuildDate>Tue, 19 Nov 2019 15:20:29 -0600</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
   </channel>
